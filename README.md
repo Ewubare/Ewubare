@@ -1,8 +1,18 @@
-
 # <a href="https://www.linkedin.com/in/ewubare/">Tega Ewubare</a>'s Cybersecurity Project Portfolio 🔐
 
-Invincibility lies in the defence; the possibility of victory in the attack.
--Sun Tzu
+> **"Invincibility lies in the defence; the possibility of victory in the attack."**  
+> — *Sun Tzu*
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](#)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](#)**
+
+ 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](#)**
 
 <hr/>
 
