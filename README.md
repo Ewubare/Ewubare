@@ -1,7 +1,6 @@
-# <a href="https://www.linkedin.com/in/ewubare/">Tega Ewubare</a>'s Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/ewubare/">Tega Ewubare</a>'s Project Portfolio 🔐
 
-> **"Invincibility lies in the defence; the possibility of victory in the attack."**  
-> — *Sun Tzu*
+Sharing some of my intrests 😄
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -13,6 +12,10 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](#)**
+
+## 📊 Data Science Projects
+
+- **[Exploratory Data Analysis on Electronic Dance Music](https://github.com/Ewubare/Exploratory-Data-Analysis-on-EDM)**  
 
 <hr/>
 
