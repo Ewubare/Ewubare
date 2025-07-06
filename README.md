@@ -1,8 +1,5 @@
 # <a href="https://www.linkedin.com/in/ewubare/">Tega Ewubare</a>'s Project Portfolio 🔐
 
-Sharing some of my intrests 😄
-
-
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Ewubare/Vulnerability-Management-Scenario)**
