@@ -3,7 +3,7 @@
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Ewubare/Vulnerability-Management-Scenario)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](#)**
+- **[Programmatic Vulnerability Remediations](https://github.com/Ewubare/Programmatic-Vulnerability-Remediations)**
 
  
 ## 🚨 Threat Hunting and Security Operations
