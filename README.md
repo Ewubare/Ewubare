@@ -4,8 +4,6 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/Ewubare/Vulnerability-Management-Scenario)**
 - **[Programmatic Vulnerability Remediations](https://github.com/Ewubare/Programmatic-Vulnerability-Remediations)**
-
-- **[Useful Cybersecurity Websites](https://github.com/Ewubare/Useful-Cybersecurity-Websites)**
  
 ## 🚨 Threat Hunting and Security Operations
 
@@ -14,6 +12,11 @@
 ## 📊 Data Science Projects
 
 - **[Exploratory Data Analysis on Electronic Dance Music](https://github.com/Ewubare/Exploratory-Data-Analysis-on-EDM)**  
+
+## Useful Resources
+
+- **[Online Cybersecurity Tools](https://github.com/Ewubare/Useful-Cybersecurity-Websites)**
+
 
 <hr/>
 
