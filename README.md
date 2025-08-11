@@ -5,7 +5,7 @@
 - **[Vulnerability Management Program Implementation](https://github.com/Ewubare/Vulnerability-Management-Scenario)**
 - **[Programmatic Vulnerability Remediations](https://github.com/Ewubare/Programmatic-Vulnerability-Remediations)**
 
-- **[Useful Websites](https://github.com/Ewubare/Programmatic-Vulnerability-Remediations)**
+- **[Useful Websites](https://github.com/Ewubare/Useful-Cybersecurity-Websites)**
  
 ## 🚨 Threat Hunting and Security Operations
 
