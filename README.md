@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/ewubare/">Tega Ewubare</a>'s Project Portfolio 
+# <a href="https://www.linkedin.com/in/ewubare/"> Project Portfolio 
 
 ## ⚠️ Vulnerability Management Projects
 
