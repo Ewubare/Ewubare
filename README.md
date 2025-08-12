@@ -7,7 +7,9 @@
  
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Ewubare/Threat-Hunting-Scenario-Tor)**
+- **[Threat Hunting Scenario](https://github.com/Ewubare/Threat-Hunting-Scenario-Tor)**
+- **[Phising Attack Scenario]()**
+
 
 ## 📊 Data Science Projects
 
