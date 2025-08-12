@@ -8,7 +8,7 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario](https://github.com/Ewubare/Threat-Hunting-Scenario-Tor)**
-- **[Phising Attack Scenario]()**
+- **[Phising Attack Scenario](https://github.com/Ewubare/Phishing-Attack-Scenario)**
 
 
 ## 📊 Data Science Projects
