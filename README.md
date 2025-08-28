@@ -11,7 +11,7 @@
 - **[Phising Attack Scenario](https://github.com/Ewubare/Phishing-Attack-Scenario)**
 
 ## ☁️ Cloud Engineering Projects
-- **[Cloud Resume Challenge](https://github.com/Ewubare/Cloud-Resume-Frontend)** - Full-stack serverless web application with visitor counter API
+- **[Cloud Resume Challenge](https://github.com/Ewubare/Cloud-Resume-Frontend)** 
 
 
 ## 📊 Data Science Projects
