@@ -10,6 +10,9 @@
 - **[Threat Hunting Scenario](https://github.com/Ewubare/Threat-Hunting-Scenario-Tor)**
 - **[Phising Attack Scenario](https://github.com/Ewubare/Phishing-Attack-Scenario)**
 
+## ☁️ Cloud Engineering Projects
+- **[Cloud Resume Challenge](https://github.com/Ewubare/Cloud-Resume-Frontend)** - Full-stack serverless web application with visitor counter API
+
 
 ## 📊 Data Science Projects
 
