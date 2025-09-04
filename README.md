@@ -8,7 +8,7 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario](https://github.com/Ewubare/Threat-Hunting-Scenario-Tor)**
-- **[Phising Attack Scenario](https://github.com/Ewubare/Phishing-Attack-Scenario)**
+- **[Threat Detection with GuardDuty](https://github.com/Ewubare/Threat-Detection-with-GuardDuty)**
 
 ## ☁️ Cloud Engineering Projects
 - **[Cloud Resume Challenge](https://github.com/Ewubare/Cloud-Resume-Frontend)** 
