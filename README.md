@@ -1,21 +1,21 @@
 # <a href="https://www.linkedin.com/in/ewubare/"> Project Portfolio 
 
-## ⚠️ Vulnerability Management Projects
+## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Ewubare/Vulnerability-Management-Scenario)**
 - **[Programmatic Vulnerability Remediations](https://github.com/Ewubare/Programmatic-Vulnerability-Remediations)**
  
-## 🚨 Threat Hunting and Security Operations
+## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario](https://github.com/Ewubare/Threat-Hunting-Scenario-Tor)**
 - **[Threat Detection with GuardDuty](https://github.com/Ewubare/Threat-Detection-with-GuardDuty)**
 
-## ☁️ Cloud Engineering Projects
+## Cloud Engineering Projects
 - **[Cloud Resume Challenge](https://github.com/Ewubare/Cloud-Resume-Frontend)**
 - **[AWS Secrets Manager Demonstration](https://github.com/Ewubare/Secrets-Manager-Demo)**
 
 
-## 📊 Data Science Projects
+## Data Science Projects
 
 - **[Exploratory Data Analysis on Electronic Dance Music](https://github.com/Ewubare/Exploratory-Data-Analysis-on-EDM)**  
 
@@ -26,7 +26,7 @@
 
 <hr/>
 
-## 🤳 Connect With Me
+## Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
