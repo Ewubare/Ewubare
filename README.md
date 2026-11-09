@@ -19,7 +19,7 @@
 
 - **[Exploratory Data Analysis on Electronic Dance Music](https://github.com/Ewubare/Exploratory-Data-Analysis-on-EDM)**  
 
-## 📖 Useful Resources
+## Useful Resources
 
 - **[Online Cybersecurity Tools](https://github.com/Ewubare/Useful-Cybersecurity-Websites)**
 
